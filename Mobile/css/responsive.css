@@ -1,0 +1,60 @@
+/* #Media Queries 
+================================================== */
+@media only screen and (max-width: 375px) {
+    
+}
+
+@media only screen and (max-width: 320px) {
+    .menu_afisha {
+        width: 288px;
+    }
+    .header {
+        width: 288px;
+    }
+    .search {
+        width: 256px;
+    }
+    .line_search {
+        width: 200px;
+    }
+    .calendar_icon {
+        right: 240px;
+    }
+    .control {
+        left: 250px;
+    }
+    .tag {
+        width: 288px;
+    }
+    .tag_menu a {
+        width: 142px;
+        font-size: 12px;
+    }
+    .poster {
+        width: 288px;
+    }
+    .menu_afisha__select_city {
+        font-size: 10px;
+        width: 150px;
+        left: 124px;
+        top: 15px;
+    }
+    .select-items {
+        width: 288px;
+        height: 600px;
+        background-color: #ffffff;
+        left: -124px;
+    }
+    .secret_settings {
+        width: 288px;
+    }
+    .secret_event {
+        left: 135px;
+    }
+    .secret_switch_2 {
+        left: 140px;
+    }
+    .secret_checkbox_title_2 {
+        left: 201px;
+    }
+}
